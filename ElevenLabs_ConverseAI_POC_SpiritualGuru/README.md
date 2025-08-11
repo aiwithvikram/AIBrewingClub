@@ -1,4 +1,4 @@
-# ElevenLabs React Native Example
+# ElevenLabs React Native POC
 
 A minimal React Native Expo app demonstrating the ElevenLabs React Native SDK for voice conversations.
 
