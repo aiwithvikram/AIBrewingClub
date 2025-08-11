@@ -72,13 +72,9 @@ When running on a simulator, make sure to adjust the audio settings so the agent
 
 In the I/O menu, make sure you've set the correct audio input and output devices. Also increase the volume as it defaults to 0.
 
-![iOS Settings](assets/ios-settings.png)
-
 ## Android
 
 In the Extended Controls panel, enable "Virtual microphone uses host audio input".
-
-![Android Settings](assets/android-settings.png)
 
 ## Web
 
