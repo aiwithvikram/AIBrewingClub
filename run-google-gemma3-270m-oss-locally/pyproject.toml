@@ -1,0 +1,10 @@
+[project]
+name = "run-openai-gpt-oss-locally"
+version = "0.0.0"
+description = "Run Open AI open source gpt-oss models locally"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ollama>=0.5.1",
+    "streamlit>=1.47.1",
+]
