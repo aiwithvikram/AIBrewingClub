@@ -9,7 +9,7 @@ Experience the power of Google's Gemma 3 270M model locally - a lightweight yet 
 - 🧠 **Smart AI**: Powered by Google's latest Gemma 3 architecture
 - ⚡ **Fast Response**: Optimized for quick, helpful interactions
 - **Streaming Chat Interface**: Real-time response generation with smooth streaming
-- **Chat History**: Full conversation history preserved across sessions
+- **Chat History**: Conversation history preserved within the same browser session
 - **Clean Interface**: Professional UI with Google Gemma and Ollama branding
 - **Status Monitoring**: Real-time Ollama service and model availability status
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
@@ -61,7 +61,7 @@ The app will be available at `http://localhost:8501` (or 8502 if 8501 is busy).
 2. **Check Status**: Verify Ollama is running and the model is available
 3. **Start Chatting**: Type your message and press Enter
 4. **View Responses**: See the model's responses stream in real-time
-5. **Chat History**: Your conversation history is automatically saved
+5. **Chat History**: Your conversation history is saved during the session (refreshing the page will clear it)
 
 ## System Requirements
 
